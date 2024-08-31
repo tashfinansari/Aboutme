@@ -1,4 +1,4 @@
-# Aboutme
+
 👋 Hi, I'm Tashfin Ansari! 
 🎓 Master's in Computer Science from the University of New Haven. 
 💼 Passionate about data, specializing in Data Analysis, Engineering, and Science. 
